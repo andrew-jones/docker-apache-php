@@ -12,6 +12,7 @@ RUN apt-get -yq install \
         php5-gd \
         php5-curl \
         php5-intl \
+        php5-memcached \
         php-pear \
         php-apc
 
